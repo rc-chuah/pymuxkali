@@ -58,4 +58,4 @@ options:
 </a>
 
 ## Stargazers Over Time
-[![Stargazers over time](https://starchart.cc/rc-chuah/pymuxkali.svg?variant=adaptive)](https://starchart.cc/rc-chuah/pymuxkali)
+[![Stargazers Over Time](https://starchart.cc/rc-chuah/pymuxkali.svg?variant=adaptive)](https://starchart.cc/rc-chuah/pymuxkali)
